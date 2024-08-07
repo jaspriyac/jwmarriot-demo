@@ -1,0 +1,265 @@
+.img1{
+  padding:20px;
+}
+.img-container{
+  text-align: center;
+}
+.p1{
+  font-family: 'Avenir', Helvetica, sans-serif;
+  font-size: 30
+}
+.p2{
+  font-family: 'Avenir', Helvetica, sans-serif;
+  font-size: 15;
+  padding-left: 100;
+  padding-right: 100;
+}
+.p3{
+  font-family: 'Avenir', Helvetica, sans-serif;
+  font-size: 15;
+  color: white;
+  padding-top: 40;
+  padding-left:40;
+  padding-right: 40;
+
+}
+.p4{
+  font-family: 'Avenir', Helvetica, sans-serif;
+  font-size: 30;
+  color: white;
+  padding-left: 40;
+  padding-right: 40;
+
+}
+.p5{
+  font-family: 'proxima-nova', sans-serif;
+  font-size: 40;
+  color: black;
+  padding-left: 40;
+  padding-right: 40;
+
+}
+.p6{
+  font-family: 'proxima-nova', sans-serif;
+  font-size: 25;
+  color: black;
+  padding-left: 40;
+  padding-right: 40;
+
+}
+.p7{
+  border:1px solid black
+}
+.p8{
+  font-family: 'Avenir', Helvetica, sans-serif;
+  font-size: 15;
+  color: white;
+  padding-left: 40;
+  padding-bottom: 40;
+  padding-right: 40;
+
+}
+.td1{
+  background-image: './Mindful/4.jpg'
+}
+.table1{
+  padding-left: 50;
+}
+.td2{
+  font-family: 'Avenir', Helvetica, sans-serif;
+  padding: 0;
+  padding-left: 40px
+}
+.td3{
+  font-family: 'Avenir', Helvetica, sans-serif;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+input{
+  width:100%;
+}
+input{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+select{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+.form-submit-button {
+background: #0066A2;
+color: white;
+border-style: outset;
+border-color: #0066A2;
+height: 50px;
+width: 100px;
+font: bold15px arial,sans-serif;
+text-shadow: none;
+}
+.mydiv{
+  width: 100%;
+  height:100px;
+}
+div.doh
+{
+      width:1300px; height:150px;
+      color:black; margin-bottom:20px;
+      margin-left:30px;
+}
+div.box
+{
+opacity:0.7;
+height:30px;
+width:300px;
+background-color:black;
+text-align:center;
+}
+div.box1
+{
+height:50px;
+width:50%;
+background-color: white;
+text-align:center;
+opacity: 0.7;
+}
+div.background1   {
+    height:720px;
+    background:url("./bgimage5.png");
+    background-size: cover;
+}
+div.background2   {
+    height:720px;
+    background:url("./bgimage6.png");
+    background-size: cover;
+}
+div.background3   {
+    height:540px;
+    background:url("./bgimage7.png");
+    background-size: cover;
+}
+div.background4   {
+    height:540px;
+    background:url("./bgimage8.png");
+    background-size: cover;
+}
+div.background5   {
+    height:370PX;
+    width:380px;
+    background:url("./MAGAZINE/1.png");
+    background-size: cover;
+}
+div.background6   {
+  height:370PX;
+  width:380px;
+    background:url("./MAGAZINE/2.png");
+    background-size: cover;
+}
+div.background7   {
+  height:370PX;
+  width:380px;
+    background:url("./MAGAZINE/3.png");
+    background-size: cover;
+}
+div.background8   {
+  height:370PX;
+  width:380px;
+    background:url("./MAGAZINE/4.png");
+    background-size: cover;
+}
+div.background9   {
+  height:370PX;
+  width:380px;
+    background:url("./MAGAZINE/5.png");
+    background-size: cover;
+}
+div.background10   {
+  height:370PX;
+  width:380px;
+    background:url("./MAGAZINE/6.png");
+    background-size: cover;
+}
+div.background11   {
+  height:370PX;
+  width:380px;
+    background:url("./MAGAZINE/1.png");
+    background-size: cover;
+}
+
+div.box3
+{
+height:50px;
+width:50%;
+background-color:	gray;
+text-align:center;
+margin-left: 60px;
+margin-bottom: 10px;;
+}
+div.box4
+{
+height:50px;
+width:150px;
+background-color: #b2beb5;
+text-align:center;
+}
+div.box5
+{
+height:50px;
+width:150px;
+background-color:	#dec2b5;
+text-align:center;
+margin-left: 40px;
+}
+div.box6
+{
+height:50px;
+width:300px;
+background-color:	#dec2b5;
+text-align:center;
+margin-left: 40px;
+}
+div.box7
+{
+height:50px;
+width:100%;
+background-color:	#dec2b5;
+text-align:center;
+margin-left: 40px;
+margin-right: 40px;
+}
+div.whitebox
+{
+      width:50%; height:450px;
+      background-color:white;
+      color:black; margin-left:20px;
+      border: 1px solid black;
+}
+div.whitebox2
+{
+      width:50%; height:400px;
+      background-color:white;
+      color:black; margin-left:20px;
+      border: 1px solid black;
+}
+div.whitebox3
+{
+      width:90%; height:150px;
+      background-color:white;
+      color:black; margin-left:40px;
+      border: 1px solid black;
+      margin-right: 40px;
+}
+div.whitebox4
+{
+      width:80%; height:400px;
+      background-color:white;
+      color:black; margin-left:20px;
+      border: 1px solid black;
+}
